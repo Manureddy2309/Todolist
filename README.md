@@ -1,1 +1,2 @@
-# Todolist
+
+A Todo List is a simple web application built using HTML, CSS, and JavaScript. It allows users to add, edit, and delete tasks, helping them manage their daily activities efficiently. The tasks are displayed dynamically, with options to mark items as completed or remove them from the list. Local storage is used to save tasks so that they persist even after refreshing the page. The project showcases front-end development skills with interactive UI and responsive design.
